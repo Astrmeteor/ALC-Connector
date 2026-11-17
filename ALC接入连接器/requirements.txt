@@ -1,0 +1,5 @@
+# 本项目不依赖任何第三方包，仅使用 Python 3.8+ 标准库。
+# 图形界面需要 tkinter（Windows/macOS 官方安装包自带）：
+#   Ubuntu/Debian : sudo apt install python3-tk
+#   Fedora/RHEL   : sudo dnf install python3-tkinter
+# 无图形环境可使用命令行模式： python run.py --cli
