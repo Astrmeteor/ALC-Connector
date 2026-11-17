@@ -190,6 +190,26 @@ ZK 证明 ZK proofs       4 份全部验证通过，各约 1677 字节，生成�
 
 ## 许可与用途 / License and Usage
 
-本代码为技术方案的工程化验证与演示实现，用于验证机制可行性与算法自洽性。不包含生产环境所需的密钥管理、访问审计、高可用等工程设施。
+本项目采用 **Apache License 2.0** 许可，完整条款见 [LICENSE](LICENSE)。
+
+Licensed under the **Apache License, Version 2.0**. See [LICENSE](LICENSE) for the full terms.
+
+```
+Copyright 2026 Astrmeteor
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+**用途说明 / Scope of use**：本代码为技术方案的工程化验证与演示实现，用于验证机制可行性与算法自洽性。不包含生产环境所需的密钥管理、访问审计、高可用等工程设施。
 
 This code is an engineering validation and demo implementation of the technical scheme, verifying mechanism feasibility and algorithmic consistency. It does not include production facilities such as key management, access auditing, or high availability.
